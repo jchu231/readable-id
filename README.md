@@ -1,5 +1,6 @@
-human-readable-ids-js
+readable-id
 =====================
+NOTE: This project is a fork of https://git.daplie.com/Daplie/human-readable-ids-js
 
 Use JavaScript to generate human-readable ids from a lists of nouns and adjectives.
 
